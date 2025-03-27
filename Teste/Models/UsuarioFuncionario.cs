@@ -20,12 +20,12 @@ namespace Funcionario
         {
             if (Idade >= 18)
             {
-                Console.WriteLine("Velho");
+                Console.WriteLine("Muito Velho");
                 id = 1;
             }
             else
             {
-                Console.WriteLine("Novo");
+                Console.WriteLine("Muito Novo");
             }
         }
     }
